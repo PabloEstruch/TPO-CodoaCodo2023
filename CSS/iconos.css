@@ -1,0 +1,9 @@
+.icono{
+color: rgb(0, 0, 0);
+margin: 0px 6px;
+font-size: 2vw;
+}
+
+.icono:hover {
+    color: aqua;
+}
