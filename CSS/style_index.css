@@ -135,13 +135,11 @@ ol {
     width: 75%;
 }
 
-.imagen{
+.centrar_imagenes_flexbox{
+    
     display: flex;
     justify-content: center;
-}
 
-.imagenes{
-    margin-left: 10px;
 }
 
 .tamaño-letra{
